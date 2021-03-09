@@ -1,0 +1,30 @@
+* {
+  font-family: 'Heebo', sans-serif;
+}
+
+section {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+}
+
+footer {
+  color: #fff;
+  padding: 1rem 0;
+
+  background-color: #1c1c1b;
+}
+
+.current {
+  border-bottom: 4px solid white;
+}
+
+.current-danger {
+  border-bottom: 4px solid red;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
