@@ -1,6 +1,6 @@
 # Auth
 
-This is a API for auth exercise.
+This is a app for auth exercise.
 
 ## Installation
 
