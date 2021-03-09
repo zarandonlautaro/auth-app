@@ -21,6 +21,11 @@ email: zarandonlautaro@gmail.com
 password: 123456
 ```
 
+## Running
+```bash
+on localhost:3000
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
